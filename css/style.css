@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+  p {
+    /* 水平方向の中央揃え */
+    text-align: center;
+
+  }
+ 
+  li{
+    display: inline;
+
+  }
+  .ouyou{
+    text-align: center;
+
+  }
+ 
+ 
